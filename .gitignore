@@ -1,0 +1,11 @@
+*.csv
+*.zip
+
+venv/
+.venv/
+__pycache__/
+
+*.log
+
+/vendor
+.env
